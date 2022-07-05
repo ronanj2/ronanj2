@@ -27,7 +27,9 @@ I'm Ronan, a software engineer who is interested in software architecture, micro
 
 ### 👯 I’m currently working on ...
 
+- Developing modern, cross platform, mobile-first applications using .NET MAUI and Blazor.
 - Strangling a number of old highly coupled monolithics, transforming them into microservices architectures, deployed to multiple environments/accounts using AWS CloudFormation and hosted serverless in AWS Lambda.
+
 
 ### 🌱 I’m currently learning ...
 

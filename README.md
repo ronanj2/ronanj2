@@ -35,7 +35,7 @@ I'm Ronan, a software engineer who is interested in software architecture, micro
 
 - Microsoft MAUI.
 - More Java, Python.
-- Studying BSc. Hons in Contemporary Software Development.
+- Swift
 
 ### 💬 Interested in roles ...
 

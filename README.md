@@ -33,7 +33,7 @@ I'm Ronan, a software engineer who is interested in software architecture, micro
 
 ### 🌱 I’m currently learning ...
 
-- Microsoft MAUI.
+- .NET MAUI.
 - More Java, Python.
 - Swift
 
